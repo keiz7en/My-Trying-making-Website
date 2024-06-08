@@ -1,0 +1,13 @@
+a:link, a:visited {
+    background-color: red;
+    color: white;
+    padding: 15px 28px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
